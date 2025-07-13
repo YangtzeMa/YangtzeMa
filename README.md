@@ -1,14 +1,6 @@
 ## Hi there, I'm YangtzeMa 👋
 
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/YangtzeMa/count.svg" alt="Visitor's Count" />
-</div>
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F57F17&center=true&vCenter=true&width=500&lines=Hi+there!+Welcome+to+my+GitHub!)](https://github.com/YangtzeMa)
-
-
-
 
 ---
 
