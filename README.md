@@ -1,22 +1,27 @@
-## Hi there 👋
+## Hi there, I'm YangtzeMa 👋
 
-<!--
-**YangtzeMa/YangtzeMa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center"> 
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/YangtzeMa/count.svg" alt="Visitor's Count" />
+</div>
 
-Here are some ideas to get you started:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F57F17&center=true&vCenter=true&width=500&lines=Hi+there!+Welcome+to+my+GitHub!)](https://github.com/YangtzeMa)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
 
 ---
-#### 💡 GitHub Stats
+
+- 🎓 **Undergraduate student** at 🇨🇳 [Tongji University](https://www.tongji.edu.cn), majoring in **Computer Science**
+- 🧠 Research interests:  
+  ‣ Multi-agent reinforcement learning 🔗 
+  ‣ Diffusion Models 🌫️  
+- 💻 Coding with: Python 🐍 / PyTorch 🔥 / C++ 🚀
+- 🍿 Watching movies | 📖 History | 🎶 Chasing good tunes
+
+---
+
+
+#### 💡 GitHub Stars
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YangtzeMa&show_icons=true&theme=tokyonight&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YangtzeMa&layout=compact&theme=tokyonight)
